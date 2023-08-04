@@ -1,7 +1,7 @@
 
-# Discord Joinner
+# Discord Joiner
 
-Discord joinner written in c++ using tls-client and nlohmann json library
+Discord joiner written in c++ using tls-client and nlohmann json library
 
 
 
@@ -11,6 +11,6 @@ Compile using g++
 
 ```bash
   g++ -c -m64 main.cpp -o main.o
-  g++ main.o -o joinner.exe tls-client.dll
+  g++ main.o -o joiner.exe tls-client.dll
 ```
     
